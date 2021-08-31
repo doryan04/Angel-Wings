@@ -8,4 +8,8 @@ You can "handwire" it or order a pcb using the files. Everything you need for it
 
 Currently work in progress, some things might be missing from the repo. Make sure to [leave an issue](https://github.com/ItzAdel/Angel-Wings/issues/new) in case of any problems.
 
+We are currently working on a split version of the keyboard.
+
+![Case.](https://github.com/ItzAdel/Angel-Wings/blob/main/img/wip.png)
+
 ### Check out @tfk004 on Telegram. https://t.me/tfk004

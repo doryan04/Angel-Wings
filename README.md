@@ -1,4 +1,6 @@
-# Angel-Wings (by [@ItzAdel](https://github.com/ItzAdel) and [@nm17](https://github.com/nm17))
+# NO MORE ACTUAL! NEW [REPO](https://github.com/doryan04/AngelWings-keyboard)
+
+## Angel-Wings (by [@ItzAdel](https://github.com/ItzAdel) and [@nm17](https://github.com/nm17))
 
 Angel Wings is a ergo-keyboard with 46 keys, originally designed for a school project.
 
